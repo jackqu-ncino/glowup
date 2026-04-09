@@ -1,0 +1,19 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sparkle/glow icon -->
+  <circle cx="18" cy="20" r="12" fill="#e11d84" opacity="0.12"/>
+  <circle cx="18" cy="20" r="7" fill="#e11d84" opacity="0.25"/>
+  <circle cx="18" cy="20" r="3.5" fill="#e11d84"/>
+  <!-- Sparkle rays -->
+  <line x1="18" y1="5" x2="18" y2="10" stroke="#e11d84" stroke-width="2" stroke-linecap="round"/>
+  <line x1="18" y1="30" x2="18" y2="35" stroke="#e11d84" stroke-width="2" stroke-linecap="round"/>
+  <line x1="5" y1="20" x2="10" y2="20" stroke="#e11d84" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="20" x2="31" y2="20" stroke="#e11d84" stroke-width="2" stroke-linecap="round"/>
+  <!-- Diagonal rays -->
+  <line x1="8.8" y1="10.8" x2="12.3" y2="14.3" stroke="#e11d84" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="23.7" y1="25.7" x2="27.2" y2="29.2" stroke="#e11d84" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="27.2" y1="10.8" x2="23.7" y2="14.3" stroke="#e11d84" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="12.3" y1="25.7" x2="8.8" y2="29.2" stroke="#e11d84" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Text: GlowUp -->
+  <text x="38" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#e11d84">Glow</text>
+  <text x="97" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#7c3aed">Up</text>
+</svg>
